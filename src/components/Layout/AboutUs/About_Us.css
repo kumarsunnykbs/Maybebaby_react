@@ -1,0 +1,8 @@
+@media(min-width: 768px){
+    .know-content-left.mobile-about {display: none;}
+    }
+    
+
+    @media(max-width: 767px){
+        .know-content-left.desktop-about {display: none;}
+    }
