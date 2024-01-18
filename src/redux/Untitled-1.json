@@ -1,0 +1,22 @@
+{
+    "father_image": "https://three3d.s3.ap-northeast-1.amazonaws.com/aligned_images_alligning/father.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=H0XHNnWC%2BTV%2BJZYuLCcukKFwR9Y%3D&Expires=2043477614",
+    "mother_image": "https://three3d.s3.ap-northeast-1.amazonaws.com/aligned_images_alligning/mother.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=3Xdnom3s5JH0mhPlWMv8MXBqRII%3D&Expires=2043477639",
+    "child_images": [
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/b9b36a67-635a-4d1c-8039-03d8afd29f48boy--10--5.3.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=7jy0oP5Sk2QdhstfnpiHLW45BqY%3D&Expires=2043478033",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/05bd0d75-fde0-4081-a47c-5788dfc0ea97boy--9--4.7.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=joYse%2FYAH34j4ramJOqf1K5tIc8%3D&Expires=2043478051",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/6227a30f-1e9f-48a8-89e6-17c223b2f391boy--8--4.2.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=FTs97%2FTalSks50Oy7a5YaAhD0eE%3D&Expires=2043477960",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/ca7ce251-5bf1-4f4a-ad64-1a12e86c8e72boy--7--3.5.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=zvPyh8RBTB79SgSKASDOk3SYhSw%3D&Expires=2043478089",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/50fcf298-b371-4296-8ff7-73512f92755cboy--6--3.0.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=dbgB4qVymWcc4Eq3HlfuROAz%2Flk%3D&Expires=2043478069",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/2c1c3848-4754-435c-a5f4-d14370b1dfd6boy--5--2.5.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=gHAeCuBzwrFozVnR5%2BuQa7fHyAE%3D&Expires=2043478108",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/84d5c878-93a4-4344-9142-28b08f118403boy--4--2.0.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=wPsYZI7%2F%2B3x1PWV%2BFZmoF5ceufQ%3D&Expires=2043477997",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/d874d686-377f-42ea-b9fb-b14464898e37boy--3--1.8.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=A%2ByfLlio1mJaQ6jQn%2FN3Mwplg1g%3D&Expires=2043478015",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/f3e307cf-6b54-4935-9ed8-abac61a9b70aboy--2--1.6.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=39d1vPBvs%2B1Pv%2Bj8xxvkRGbaZjU%3D&Expires=2043477978",
+        "https://three3d.s3.ap-northeast-1.amazonaws.com/withouhair/d67d3bf1-34bc-4d5a-8d6e-6d83a7400ccfboy--1--0.9.png?AWSAccessKeyId=AKIAYRFDMC3T2AXA6UXR&Signature=q9ltE6J2tvHe6D%2Bo4uS6T1kOKNQ%3D&Expires=2043477942"
+    ]
+}
+
+
+
+
+
+

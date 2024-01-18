@@ -1,0 +1,28 @@
+.privacy_heading {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    margin: 35px;
+    letter-spacing: 2.12px;
+}
+
+li {
+    margin-bottom: 10px;
+
+}
+
+.allPolicy {
+    margin-bottom: 80px !important;
+}
+
+.termsHeading {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+p.about_content {
+    line-height: 28px;
+}
+section.about-new.blog-new.Privacyonly h3.AboutUshead {
+    margin-bottom: 80px;
+}

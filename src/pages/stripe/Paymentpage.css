@@ -1,0 +1,30 @@
+
+.paymeny-only img {
+    margin-bottom: 15px;
+}
+
+.paymeny-only p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.center-db.paymeny-only {
+    background: #363636;
+    text-align: center;
+}
+
+.emailveryfy {
+    background: transparent !important;
+}
+.center-db.paymentfail {
+    background: #363636;
+    padding: 30px;
+    border-radius: 6px;
+    min-width: 420px;
+    text-align: center;
+}
+.paymentfail p {
+    color: #fff;
+    font-size: 20px;
+    margin: 16px 10px;
+}
